@@ -3,7 +3,6 @@ Travis CI:
 [![Build Status](https://travis-ci.org/ksripathi/MyHelloWorld.svg?branch=master)](https://travis-ci.org/ksripathi/MyHelloWorld)
 
 Coverity Scan:
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/1102/badge.svg)](https://scan.coverity.com/projects/1102)
 
 <a href="https://scan.coverity.com/projects/ksripathi-myhelloworld">
   <img alt="Coverity Scan Build Status"
